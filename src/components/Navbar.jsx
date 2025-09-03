@@ -18,7 +18,7 @@ function Navbar() {
               alt="Apostolic Faith Church Logo"
             />
             <span className="text-gray-900 text-xl sm:text-2xl font-bold">
-              Apostolic Faith Church
+              Apostolic Faith Church kiambaa
             </span>
           </a>
 

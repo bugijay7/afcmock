@@ -16,7 +16,7 @@ function Hero() {
       {/* Content */}
       <div className="relative z-10 px-6 text-center max-w-3xl">
         <h1 className="mb-6 text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-extrabold text-white leading-tight">
-          Welcome to <span className="text-amber-400">Apostolic Faith Church</span>
+          Welcome to <span className="text-amber-400">Apostolic Faith Church</span> Kiambaa
         </h1>
 
         <p className="mb-8 text-base sm:text-lg md:text-xl text-gray-200">
